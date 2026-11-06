@@ -1,5 +1,7 @@
 # Altara · Control de personal
 
+[Abrir la demo en Vercel](https://altara-control-personal.vercel.app)
+
 Sistema web para reemplazar el control de ponches, turnos, horas extras y vacaciones que el restaurante Altara administraba en papel.
 
 ![Vista principal](outputs/altara-control-preview.png)
